@@ -1,5 +1,7 @@
 # Демопроект автоматизации тестирования API на reqres.in
-![WB_logo.jpg](media/icons/reqres_logo.png)
+<p align="center">
+<img title="ReqresLogo" src="media/icons/Reqres_logo.png">
+
 ## :scroll: Содержание:
 
 - [Используемый стек](#computer-используемый-стек)

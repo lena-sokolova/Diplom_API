@@ -51,7 +51,7 @@ gradle clean test
 ```
 ## <img width="4%" style="vertical-align:middle" title="Jenkins" src="media/icons/Jenkins.svg"> Сборка в Jenkins
 
-Для запуска [сборки](https://jenkins.autotests.cloud/job/hw20_restAPI_UI_tests/) необходимо перейти в раздел <code>Собрать с параметрами</code>, указать нужные параметры и нажать кнопку <code>Собрать</code>.
+Для запуска [сборки](https://jenkins.autotests.cloud/job/qa_guru_20_Diplom_API/) необходимо перейти в раздел <code>Собрать с параметрами</code>, указать нужные параметры и нажать кнопку <code>Собрать</code>.
 <p align="center">
 <img title="Jenkins Build" src="media/screenshots/job.png">
 </p>

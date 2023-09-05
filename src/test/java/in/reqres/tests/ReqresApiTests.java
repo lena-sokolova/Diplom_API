@@ -1,6 +1,7 @@
 package in.reqres.tests;
 
 import in.reqres.models.*;
+import io.qameta.allure.Owner;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -12,6 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class ReqresApiTests extends TestBase {
 
     @Test
+    @Owner("Elena Sokolova")
     @DisplayName("Check getting single user data")
     void getSingleUserTest() {
 
@@ -32,6 +34,7 @@ public class ReqresApiTests extends TestBase {
     }
 
     @Test
+    @Owner("Elena Sokolova")
     @DisplayName("Check getting list resources")
     void getListResourceTest() {
 
@@ -57,6 +60,7 @@ public class ReqresApiTests extends TestBase {
     }
 
     @Test
+    @Owner("Elena Sokolova")
     @DisplayName("Check successful user creation")
     void successfulCreateUserTest() {
         CreateUserModel createData = new CreateUserModel();
@@ -80,6 +84,7 @@ public class ReqresApiTests extends TestBase {
     }
 
     @Test
+    @Owner("Elena Sokolova")
     @DisplayName("Check successful user updating")
     void successfulUpdateUserTest() {
         CreateUserModel updateData = new CreateUserModel();
@@ -103,6 +108,7 @@ public class ReqresApiTests extends TestBase {
     }
 
     @Test
+    @Owner("Elena Sokolova")
     @DisplayName("Check successful user deletion")
     void successfulDeleteUserTest() {
 

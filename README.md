@@ -56,7 +56,7 @@ gradle clean test
 <img title="Jenkins Build" src="media/screenshots/job.png">
 </p>
 
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/icons/Allure_Report.svg"> Отчет о результатах тестирования в Allure Report
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/icons/Allure_Report.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/qa_guru_20_Diplom_API/)
 
 ### Основная страница отчета
 
@@ -69,7 +69,7 @@ gradle clean test
 <p align="center">
 <img title="Allure Overview" src="media/screenshots/allureReportSuites.png">
 
-## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/icons/AllureTestOps.svg"> Интеграция с Allure TestOps
+## <img width="4%" style="vertical-align:middle" title="Allure TestOps" src="media/icons/AllureTestOps.svg"> Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/3647/dashboards)
 
 ### Dashboards
 
@@ -83,7 +83,7 @@ gradle clean test
 <img title="Allure TestOps testcase" src="media/screenshots/testOps_test.png">
 </p>
 
-## <img width="4%" style="vertical-align:middle" title="Jira" src="media/icons/Jira.svg"> Интеграция с Jira
+## <img width="4%" style="vertical-align:middle" title="Jira" src="media/icons/Jira.svg"> Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-869)
 
 Реализована интеграция <code>Allure TestOps</code> с <code>Jira</code>, в тикете отображается, какие тест-кейсы были написаны в рамках задачи и результат их прогона.
 

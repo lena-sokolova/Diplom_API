@@ -65,4 +65,3 @@ public class CommonSpec {
             .expectStatusCode(204)
             .build();
 }
-

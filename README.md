@@ -18,7 +18,6 @@
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="media/icons/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="media/icons/Java.svg">
-<img width="6%" title="Selenide" src="media/icons/Selenide.svg">
 <img width="6%" title="Selenoid" src="media/icons/Selenoid.svg">
 <img width="6%" title="Allure Report" src="media/icons/Allure_Report.svg">
 <img width="5%" title="Allure TestOps" src="media/icons/AllureTestOps.svg">
@@ -30,11 +29,6 @@
 <img width="6%" title="Telegram" src="media/icons/Telegram.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
 </p>
-
-Тесты написаны на языке программирования <code>Java</code> с использованием фреймворков <code>JUnit 5</code> и [Selenide](https://selenide.org/). Для автоматизированной сборки проекта используется <code>Gradle</code>.
-Для запуска браузеров используется [Selenoid](https://aerokube.com/selenoid/).
-Удаленный запуск тестов осуществляется в <code>Jenkins</code>. Далее формируется Allure-отчет и с помощью бота отправляется в <code>Telegram</code>.
-Настроена интеграция с <code>Allure TestOps</code> и <code>Jira</code>.
 
 ## :heavy_check_mark: Тест-кейсы
 * Получение данных пользователя;

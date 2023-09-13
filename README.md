@@ -50,7 +50,7 @@ gradle clean test
 <img title="Jenkins Build" src="media/screenshots/job.png">
 </p>
 
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/icons/Allure_Report.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/qa_guru_20_Diplom_API/)
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/icons/Allure_Report.svg"> Отчет о результатах тестирования в [Allure Report](https://jenkins.autotests.cloud/job/qa_guru_20_Diplom_API/allure/)
 
 ### Основная страница отчета
 
